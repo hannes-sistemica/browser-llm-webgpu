@@ -11,11 +11,11 @@ thumbnail: >-
   https://huggingface.co/spaces/webml-community/deepseek-r1-webgpu/resolve/main/banner.png
 ---
 
-# DeepSeek-R1 WebGPU
+# WebGPU + LLM Demo: Run AI Locally Without Installation!
 
-A next-generation reasoning model that runs locally in your browser with WebGPU acceleration.
+This demonstration shows how to use WebGPU and large language models (LLMs) directly in your browser - no installation required!
 
-You are about to load DeepSeek-R1-Distill-Qwen-1.5B, a 1.5B parameter reasoning LLM optimized for in-browser inference. Everything runs entirely in your browser with 🤗 Transformers.js and ONNX Runtime Web, meaning no data is sent to a server. Once loaded, it can even be used offline.
+You're about to experience DeepSeek-R1-Distill-Qwen-1.5B, a 1.5B parameter reasoning LLM optimized for in-browser inference. Everything runs entirely in your browser using 🤗 Transformers.js and ONNX Runtime Web, meaning no data is sent to any server. Once loaded, it can even be used offline - perfect for privacy-conscious users and edge computing scenarios.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue)](https://github.com/hannes-sistemica/browser-llm-webgpu)
 
