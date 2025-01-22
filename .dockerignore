@@ -1,0 +1,25 @@
+.*
+!.dockerignore
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+*.log
+*.tmp
+
+# Ignore version control
+.git/
+.gitignore
+
+# Ignore local development files
+.env
+.env.local
+.vscode/
+
+# Ignore documentation
+docs/
+README.md
+LICENSE
