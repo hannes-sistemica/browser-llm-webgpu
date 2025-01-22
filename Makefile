@@ -2,8 +2,8 @@
 
 # Local development
 dev:
-	@echo "Starting Python HTTP server..."
-	@python3 -m http.server 8000
+	@echo "Starting Python HTTP server with directory listing disabled..."
+	@python3 -m http.server 8000 --directory . --bind 127.0.0.1
 
 # Docker commands
 docker-build:
