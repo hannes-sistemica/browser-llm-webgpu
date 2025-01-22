@@ -32,18 +32,11 @@ Follow the steps below to set up and run the application.
 
 ### 1. Clone the Repository
 
-Clone the examples repository from GitHub:
+Clone this repository from GitHub:
 
 ```sh
-git clone https://github.com/huggingface/transformers.js-examples.git
-```
-
-### 2. Navigate to the Project Directory
-
-Change your working directory to the `deepseek-r1-webgpu` folder:
-
-```sh
-cd transformers.js-examples/deepseek-r1-webgpu
+git clone https://github.com/hannes-sistemica/browser-llm-webgpu.git
+cd browser-llm-webgpu
 ```
 
 ### 3. Run the Web Server
