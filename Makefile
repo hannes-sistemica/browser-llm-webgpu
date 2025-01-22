@@ -2,8 +2,8 @@
 
 # Local development
 dev:
-	@echo "Starting local development server..."
-	@npm run dev
+	@echo "Starting Python HTTP server..."
+	@python3 -m http.server 8000
 
 # Docker commands
 docker-build:

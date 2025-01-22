@@ -46,20 +46,20 @@ Change your working directory to the `deepseek-r1-webgpu` folder:
 cd transformers.js-examples/deepseek-r1-webgpu
 ```
 
-### 3. Install Dependencies
+### 3. Run the Web Server
 
-Install the necessary dependencies using npm:
-
-```sh
-npm i
-```
-
-### 4. Run the Development Server
-
-Start the development server:
+Start a simple HTTP server:
 
 ```sh
-npm run dev
+make dev
 ```
 
-The application should now be running locally. Open your browser and go to `http://localhost:5173` to see it in action.
+The application should now be running locally. Open your browser and go to `http://localhost:8000` to see it in action.
+
+Alternatively, you can use Docker:
+
+```sh
+make docker
+```
+
+This will build and run the container, serving the files at `http://localhost:80`
