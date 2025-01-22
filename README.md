@@ -1,16 +1,3 @@
----
-title: DeepSeek-R1 WebGPU
-emoji: 🧠
-colorFrom: red
-colorTo: blue
-sdk: static
-pinned: false
-license: apache-2.0
-short_description: Next-generation reasoning model that runs locally in-browser
-thumbnail: >-
-  https://huggingface.co/spaces/webml-community/deepseek-r1-webgpu/resolve/main/banner.png
----
-
 # WebGPU + LLM Demo: Run AI Locally Without Installation!
 
 This demonstration shows how to use WebGPU and large language models (LLMs) directly in your browser - no installation required!
