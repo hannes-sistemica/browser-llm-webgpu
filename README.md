@@ -65,17 +65,9 @@ make docker
 
 This will build and run the container, serving the files at `http://localhost:80`
 
-## Contributing
+## Source Code
 
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeatureName`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeatureName`)
-5. Open a pull request
-
-Please make sure to follow the existing code style and add tests when appropriate.
+This project is based on code from the [DeepSeek-R1 WebGPU](https://huggingface.co/spaces/webml-community/deepseek-r1-webgpu) space on Hugging Face.
 
 ## License
 
