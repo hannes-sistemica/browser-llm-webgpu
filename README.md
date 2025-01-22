@@ -13,6 +13,19 @@ thumbnail: >-
 
 # DeepSeek-R1 WebGPU
 
+A next-generation reasoning model that runs locally in your browser with WebGPU acceleration.
+
+You are about to load DeepSeek-R1-Distill-Qwen-1.5B, a 1.5B parameter reasoning LLM optimized for in-browser inference. Everything runs entirely in your browser with 🤗 Transformers.js and ONNX Runtime Web, meaning no data is sent to a server. Once loaded, it can even be used offline.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-blue)](https://github.com/hannes-sistemica/browser-llm-webgpu)
+
+## Key Features
+- 🚀 WebGPU-accelerated inference
+- 🔒 Fully local execution - no data leaves your browser
+- ⚡ Optimized for in-browser performance
+- 📴 Works offline after initial load
+- 🤖 1.5B parameter reasoning model
+
 ## Getting Started
 
 Follow the steps below to set up and run the application.
